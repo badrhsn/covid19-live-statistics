@@ -1,6 +1,11 @@
 # covid19
 
-A new Flutter project.
+A new Flutter project COVID-19 LIVE STATISTICS
+
+SOME SECREEN SHOTS FROM THE APPLICATION
+
+![Alt text](https://i.imgur.com/MQ9CXEg.png?raw=true "Title") ![Alt text](https://i.imgur.com/nDfpJgL.png?raw=true "Title") ![Alt text](https://i.imgur.com/t2YWgaF.png?raw=true "Title") ![Alt text](https://i.imgur.com/MFZ0pQE.png?raw=true "Title")
+
 
 ## Getting Started
 
